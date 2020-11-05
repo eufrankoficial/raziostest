@@ -8,7 +8,6 @@ Esse projeto precisa da versão 7.3 ou superior do PHP. É importante que tenha 
 - Dar permissão chmod -R 777 na pasta storage e na pasta bootstrap/cache
 - Copiar o conteúdo do .env.example para um arquivo na raiz chamado .env
 - Rodar o comando php artisan key:generate
-	- Dentro do arquivo .env, substituir o valor da variável API_KEY para a API_KEY gerada em sua conta no BLING!
 
 - Ainda na linha de comando, rodar yarn install ou npm install
 - Logo depois, rodar yarn dev ou npm run dev
